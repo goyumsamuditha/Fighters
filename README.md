@@ -1,3 +1,17 @@
 This is our group project
+
+
+
 Group name - Fighters
-HR application – HR managers can create employee profiles and keep track of their information. Employees can login to the application and request leaves etc.
+
+
+
+Group Members 
+
+                Perera.P.P.G.S - 186057C
+
+                H.R.G.Deshani - 186015X
+                
+                K.A.D.L.Amarawansha - 186004M
+                
+                D.M.A.N.Gunarathna-186022P
