@@ -2,11 +2,11 @@ This is our group project
 
 
 
-Group name - Fighters
+##Group name - Fighters
 
 
 
-Group Members 
+##Group Members 
 
                 Perera.P.P.G.S - 186057C
 
@@ -15,3 +15,8 @@ Group Members
                 K.A.D.L.Amarawansha - 186004M
                 
                 D.M.A.N.Gunarathna-186022P
+
+
+
+##Instructions
+ **To run this web appplication all the files are in HR Application directory.Open HR Application folder using pycharm or any other development tool.
